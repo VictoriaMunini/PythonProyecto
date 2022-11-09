@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     # Se agrega la app creada
-    'Appmvt',
+    'AppMunini',
 ]
 
 MIDDLEWARE = [
